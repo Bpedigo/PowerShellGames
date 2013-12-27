@@ -1,4 +1,4 @@
-PowerShellGames
+Games Writen in Power Shell 
 ===============
 
-These are a couple of realy simple powershell games. 
+here a couple of really simple powershell games. 
